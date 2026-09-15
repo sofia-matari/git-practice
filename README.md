@@ -1,6 +1,7 @@
 # Git Practice
-Article: [“Coding is dead”? Teaching computer programming in the age of 
-AI]
+Article: “Coding is dead”? Teaching computer programming in the age of 
+AI
+
 Link:(https://www.unesco.org/en/articles/coding-dead-teaching-computer-programming-age-ai)
 
 Reflection: This article is very interesting as it explores the importance 
