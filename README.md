@@ -2,7 +2,7 @@
 
 ### AI Safety in Critical Situations
 
-I chose an article from MIT News which 
+I chose an article from MIT News
 [New Method enables AI for safety-critical situations](https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914)
 
 ### Why I Found It Interesting
